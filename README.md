@@ -14,5 +14,7 @@ Students can join by filling out the sign‑in form and choosing the courses the
 
 *HTML Basics — Learn how websites are built using basic tags and structure.
 
+*AI Explorers – Explore the basics of Artificial Intelligence through interactive projects, creative challenges, and responsible AI use.
+
 **About the Club**
 CodeSeed Club is designed for beginners of all ages. No experience is required—just curiosity and a willingness to learn.
